@@ -1,0 +1,28 @@
+#bor {
+
+}
+
+.bor1 {
+
+}
+
+#input {
+    height: 150px;
+}
+
+#insert {
+    float: left;
+
+}
+
+#edit {
+    float: left;
+    margin-left: 40px;
+
+}
+
+#delete {
+    float: left;
+    margin-left: 40px;
+
+}
